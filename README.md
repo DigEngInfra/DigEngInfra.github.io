@@ -1,3 +1,4 @@
+![](32db72c8-9979-4264-898d-47c98444bd73.png)
 # Welcome to Digital Engineering Infrastructure 
 
 ## Introduction 
