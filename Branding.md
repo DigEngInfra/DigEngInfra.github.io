@@ -19,7 +19,8 @@ Backgrounds: Preferably use the logo on Deep Blue (#0D3B66) or White (#F9F9F9) b
 
 ### Primary Colour:
 
-Deep Blue: #0D3B66 (Backgrounds, headers)
+Deep Blue: #11344F
+ (Backgrounds, headers)
 
 
 ### Secondary Colours:
