@@ -5,27 +5,27 @@
 Hello, welcome to my blog and my first post. 
 Thank you for taking the time to read about my journey. Hopefully you'll learn something amongst what may be many many rants!
 
+### Aug 2000 to March 2008
+
 When I first started the architectural side of the business we were still using Drawing Boards and although we had 4 PCs in the office, only one was connected to the internet!
 
 During my time with Baker Barnett I learnt a great deal, mainly due to the varied work they did. Very rarely were two consecutive days the same. One day out surveying a field for a pipeline with a Total Station, the next going to see my latest design come to life on a construction site. I believe this set me up for success as a BIM coordinator/Digital Lead as it gave me the knowledge and experience of multiple aspects of AEC. 
 
+However, my time at Baker Barnett had to come to a end and in 2008 I decided I wanted to further my education and career.
 
+### March 2008 to Present
 
-However, my time at Baker Barnett had to come to a end and in 2008 I decided I wanted to further my education and career, I joined Scott Wilson Limited, at their local Chesterfield office. I was very lucky and joined the fantastic Major Roads Team, working at the time on the M1 J10 to 13 widening scheme. Scott Wilson sponsored me through a BEng (Hons) degree in Civil Engineering at Derby University, where I also achieved membership of the ICE and Technician Membership of the Engineering Council.
+#### Scott Wilson Era
 
-
+I joined Scott Wilson Limited, at their local Chesterfield office. I was very lucky and joined the fantastic Major Roads Team, working at the time on the M1 J10 to 13 widening scheme. Scott Wilson sponsored me through a BEng (Hons) degree in Civil Engineering at Derby University, where I also achieved membership of the ICE and Technician Membership of the Engineering Council.
 
 I quickly made my thoughts known on the relatively new "BIM" way of working. Making as many people as I could listen to the benefits of BS1192:2007. It might have not gone down well and I was (and to this day, still am) told that is 'not how we work.' I pushed for greater use of tools and techniques to help improve the efficiency of our designs and ways that made information more accessible to decision makers. 
 
-
-
 I was also part of some initial development of Lean applications, learning about Six Sigma and other techniques. Kanban boards are one thing that has stuck with me and I still use to this day. Mainly using Microsoft Planner as my go to tool. Especially with its integration to Microsoft Teams, which I was lucky enough to start using in 2018, so by the time the pandemic hit it was already a key part of my work life.
 
-
+#### URS Era
 
 It wasn't until 2010 when I started work on HS2 that I really found a team, backed up by a forward thinking client, that was pushing the boundaries of Digital and really embraced BIM. Principles of HS2 was not just to create a legacy of new Infrastructure for the country (we can debate the need for HS2 another time) but to leave a legacy on the construction industry and foster innovation in Digital and Sustainability. 
-
-
 
 For the next 8 years I worked on HS2 projects, learning new software and techniques. Such as, ProjectWise, PowerInRoads, OpenRoads Designer and improved my knowledge of Civil3D. It drove a passion I had for learning and keeping upto date with the latest technology.
 
@@ -34,7 +34,7 @@ For the next 8 years I worked on HS2 projects, learning new software and techniq
 
 I had always been a "geek" and had always been into Computers and Gaming, as a teenager I would play Half-life and other games and then modify them to create my own add-ons. I have built my own PCs, managed all my family's technology and been "IT support" for as long as I can remember. This bleed over from my personal life into my professional, with my work colleagues quickly learning they could rely on me to help them with IT and software issues, especially when the IT help desk was slow to respond and project deliverables needed to be completed.
 
-
+#### AECOM Era
 
 From 2013, I become recognised in the business for being a Subject Matter Expert in PowerInRoads, and then more recently OpenRoads Designer. I built a PowerInRoads workspace for Highway Design on HS2 and a ProjectWise Managed workspace for OpenRoads Designer that complied with IAN184 and now GG184.
 
