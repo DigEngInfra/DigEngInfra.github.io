@@ -55,7 +55,7 @@ Brydon Wood's REM process has been a big inspiration to me. At the time of relea
 So, that's me for the most part. My career has been varied and I have gone from hand drawing house plans to pushing the envelope of what is possible in a digital environment. My journey has included doing what is now known as traditional, to doing traditional digitally, to Digital Engineering where new ways of thinking and new processes make construction easier, with less downtime and waste.
 
 
-
+<!---
 To finish the post, I want to leave you with what I have found to be the biggest challenge throughout my career and that is collaboration. Whether that be between people or software. Getting people and technology to communicate is the key to success. Failure to communicate will 100% lead to an uncoordinated and disjointed design, with more than a few issues to be "sorted on site". In my next post I'll dive into how I have tried to overcome this, what software and techniques I have used and how people are still key in construction. I'll try and include some of the mistakes I've made so you can try to avoid them.
 
-
+--->
