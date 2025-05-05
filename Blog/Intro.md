@@ -50,7 +50,7 @@ I have developed a number of Powershell scripts and Excel automations to help me
 
 Brydon Wood's REM process has been a big inspiration to me. At the time of release and still to this day, is forward thinking and a very innovative approach especially within Infrastructure. There are a few other tools about now which aim to achieve similar efficiency in design but REM will be the one that changed the way I thought about the design of highways.
 
-
+<!--- Add a bit from 2021 to now --->
 
 So, that's me for the most part. My career has been varied and I have gone from hand drawing house plans to pushing the envelope of what is possible in a digital environment. My journey has included doing what is now known as traditional, to doing traditional digitally, to Digital Engineering where new ways of thinking and new processes make construction easier, with less downtime and waste.
 
