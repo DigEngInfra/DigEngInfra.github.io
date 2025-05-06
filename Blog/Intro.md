@@ -5,6 +5,8 @@
 Hello, welcome to my blog and my first post. 
 Thank you for taking the time to read about my journey. Hopefully you'll learn something amongst what may be many many rants!
 
+![Chris Andrew!](/Resources/1635065511572383-0.jpg "Chris Andrew")
+
 ### Aug 2000 to March 2008
 
 When I first started the architectural side of the business we were still using Drawing Boards and although we had 4 PCs in the office, only one was connected to the internet!
